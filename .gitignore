@@ -1,0 +1,7 @@
+*.csv
+AY/model/lgbm_except_overfit_fold6.txt
+AY/.ipynb_checkpoints/EDA-checkpoint.ipynb
+AY/EDA.ipynb
+AY/model/lgbm_except_overfit_fold6.txt
+AY/.ipynb_checkpoints/EDA-checkpoint.ipynb
+AY/EDA.ipynb
